@@ -21,7 +21,7 @@ jobs:
       - name: build and push to github package
         uses: elgohr/Publish-Docker-Github-Action@master
         with:
-          name: daixijun/kubectl-docker/kubectl
+          name: docker.pkg.github.com/daixijun/kubectl-docker/kubectl
           username: ${{ secrets.github_username }}
           password: ${{ secrets.github_password }}
           registry: docker.pkg.github.com
