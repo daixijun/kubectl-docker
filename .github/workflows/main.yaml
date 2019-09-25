@@ -4,8 +4,10 @@ on:
   push:
     paths:
       - "!*.md"
-    branches: master
+    branches:
+      - master
     tags:
+      - "v*"
 
 jobs:
   build:
