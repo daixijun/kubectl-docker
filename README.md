@@ -11,4 +11,4 @@ Kubernetes的工具镜像，包含 `kubectl`, `kustomize`, `kubedog`, `tkn`, `yq
 
 支持的镜像标签:
 
-* [`v1.6.0`, `latest`](https://github.com/daixijun/kubectl-docker/releases/tag/v1.6.0) kubectl v1.6.0, kustomize v3.2.0, kubedog v0.3.4, tkn 0.3.1, helm v3.0.0-beta.3, yq 2.4.0
+* [`1.6.0`, `latest`](https://github.com/daixijun/kubectl-docker/releases/tag/v1.6.0) kubectl v1.6.0, kustomize v3.2.0, kubedog v0.3.4, tkn 0.3.1, helm v3.0.0-beta.3, yq 2.4.0
