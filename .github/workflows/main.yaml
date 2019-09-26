@@ -1,9 +1,6 @@
 ---
 name: ci
-on:
-  push:
-    paths:
-      - "!*.md"
+on: [push]
 
 jobs:
   build:
