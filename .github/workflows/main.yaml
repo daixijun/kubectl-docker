@@ -1,12 +1,5 @@
 name: PublishDocker
-on:
-  push:
-    branches:
-      - master
-    tags:
-      - v1.*
-    paths:
-      - "!README.md"
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
