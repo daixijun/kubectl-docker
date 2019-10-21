@@ -11,5 +11,6 @@ Kubernetes的工具镜像，包含 `kubectl`
 
 支持的镜像标签:
 
-* [`v1.16.1`, `latest`](https://github.com/daixijun/kubectl-docker/releases/tag/v1.16.1) kubectl v1.16.1
+* [`v1.16.2`, `latest`](https://github.com/daixijun/kubectl-docker/releases/tag/v1.16.2) kubectl v1.16.2
+* [`v1.16.1`](https://github.com/daixijun/kubectl-docker/releases/tag/v1.16.1) kubectl v1.16.1
 * [`v1.16.0`](https://github.com/daixijun/kubectl-docker/releases/tag/v1.16.0) kubectl v1.16.0
