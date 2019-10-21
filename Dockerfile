@@ -2,7 +2,7 @@ FROM alpine:3.10
 
 LABEL MAINTAINER="Xijun Dai <daixijun1990@gmail.com>"
 
-ENV KUBECTL_VERSION=1.16.0
+ENV KUBECTL_VERSION=1.16.1
 
 RUN apk update \
     && apk add --no-cache ca-certificates curl \
